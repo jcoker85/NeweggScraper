@@ -1,3 +1,7 @@
+package com.scraper;
+
+import com.scraper.helper.ScraperHelper;
+
 import javax.sound.sampled.*;
 import java.io.BufferedInputStream;
 import java.io.IOException;

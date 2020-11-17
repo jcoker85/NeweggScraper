@@ -1,3 +1,5 @@
+package com.scraper.helper
+
 import groovyx.net.http.HTTPBuilder
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document

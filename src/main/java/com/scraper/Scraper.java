@@ -1,3 +1,5 @@
+package com.scraper;
+
 import org.apache.commons.lang3.StringEscapeUtils;
 
 import javax.swing.*;
